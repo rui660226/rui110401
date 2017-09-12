@@ -78,3 +78,24 @@
 
 ![image](http://pic.ibaotu.com/00/23/44/91a888piCcbV.jpg-0.jpg!/fw/700/watermark/url/L3RvL2xvZ29fdG8ucG5n/align/center)
 
+```
+function show(){
+
+}
+```
+
+```html
+<p>
+	样式 
+	<a href="https://baidu.com">链接</a>
+</p>
+
+内联的代码`alert('hello yuanrui')内联的代码
+
+header 1 | header 2
+---|------
+row 1 col 1 | row 1 col 2 | 3
+row 2 col 1 | row 2 col 2 | 3
+
+```
+
